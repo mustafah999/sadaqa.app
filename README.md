@@ -1,1 +1,0 @@
-# sadaqa.app
